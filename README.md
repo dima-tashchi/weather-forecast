@@ -1,4 +1,4 @@
-# SolarTestWeather
+# TestWeather
 
 ## Project setup
 ```
